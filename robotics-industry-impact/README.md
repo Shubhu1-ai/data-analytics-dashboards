@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing how robotics adoption has affected productivity, cost, and the workforce across manufacturing, healthcare, and logistics between 2015 and 2023.
 
-**Data:** Sample dataset from Kaggle to built analysis Dashboard.
+**Data:** Sample dataset from Kaggle to built analysis Dashboards.
 
 ## What it looks at
 - Robots adopted per industry, per year
@@ -26,6 +26,7 @@ Robotics adoption isn't just an engineering question — it's a business one. Th
 
 ## Files in this folder
 - `robotics_data.csv` — raw dataset: Year, Industry, Robots Adopted, Productivity Gain, Cost Savings, Jobs Displaced, Training Hours
-- `Productivity_Gain_vs_Cost_Savings.csv` — aggregated data behind the productivity-vs-cost-savings scatter chart
+- `Productivity Gain vs Cost Savings.csv` — aggregated data behind the productivity-vs-cost-savings scatter chart
 - `Robotics_Adoption_Industry_Impact.pbix` — the Power BI file itself
-- `screenshots/` — dashboard page images
+- `Shubham_Bollu_Robotics_Industry_Impact_Project.pptx` — original presentation deck with additional context and analysis
+- `Picture1.png` – `Picture5.jpg` — dashboard screenshots
