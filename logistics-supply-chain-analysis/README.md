@@ -2,7 +2,7 @@
 
 A Tableau dashboard analyzing global sales, shipping efficiency, and payment methods across international markets.
 
-**Data:** Public/practice dataset (global supply chain sales data), not real company data.
+**Data:** Kaggle Raw dataset (global supply chain sales data).
 
 ## What it looks at
 - Sales, order volume, and profit margin by country and market
@@ -25,7 +25,6 @@ Sales, shipping, and payments aren't separate problems — they all shape the sa
 **Tools:** Tableau
 
 ## Files in this folder
-- `Shubham_Bollu_Project_2.pdf` — exported dashboard slides
-- `Shubham_Bollu_Project_2_new.pptx` — original presentation deck
-- `[add your Tableau .twbx file here if you have it]`
-- **Live dashboard:** [add your Tableau Public link here]
+- `logistics-supply-chain-analysis.pdf` — Dashboard Screenshots
+- `'logistics-supply-chain-analysis.pptx` — Presentation Slides
+- `'Project_2` - Main Tablue Dashboard File
