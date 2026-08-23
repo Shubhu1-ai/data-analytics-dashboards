@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing how robotics adoption has affected productivity, cost, and the workforce across manufacturing, healthcare, and logistics between 2015 and 2023.
 
-**Data:** Sample dataset built for this analysis (not real company data).
+**Data:** Sample dataset from Kaggle to built analysis Dashboard.
 
 ## What it looks at
 - Robots adopted per industry, per year
