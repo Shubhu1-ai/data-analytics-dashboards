@@ -27,4 +27,4 @@ Sales, shipping, and payments aren't separate problems — they all shape the sa
 ## Files in this folder
 - `logistics-supply-chain-analysis.pdf` — Dashboard Screenshots
 - `'logistics-supply-chain-analysis.pptx` — Presentation Slides
-- `'Project_2` - Main Tablue Dashboard File
+- `'Project_2` - Main Tableau Dashboard File
